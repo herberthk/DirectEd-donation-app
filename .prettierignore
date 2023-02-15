@@ -1,0 +1,9 @@
+out/
+dist/
+ts-node-*
+**/.cache
+package.json
+yarn.lock
+node_modules
+.bin/
+.gitignore
